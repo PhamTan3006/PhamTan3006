@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tân Phạm</h1>
 <h3 align="center">A passionate Full-stack developer from VietNam</h3>
 
-<p align="left"> <img 
-src="https://komarev.com/ghpvc/?username=phamtan3006&label=Profile%20views&color=0e75b6&style=flat" 
-alt="phamtan3006" /> </p>
 
 <p align="left"> <a 
 href="https://github.com/ryo-ma/github-profile-trophy"><img 

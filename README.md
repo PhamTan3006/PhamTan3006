@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tân Phạm</h1>
 <h3 align="center">A passionate Full-stack developer from VietNam</h3>
 
-
-<p align="left"> <a 
-href="https://github.com/ryo-ma/github-profile-trophy"><img 
-src="https://github-profile-trophy.vercel.app/?username=phamtan3006" 
-alt="phamtan3006" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img 
-src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" 
-alt="" /></a> </p>
-
 - 🔭 I’m currently a student [Ho Chi Minh University of Information 
 Technology-VNUHCM](https://www.uit.edu.vn/)
 
@@ -215,15 +205,4 @@ rel="noreferrer"> <img
 src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" 
 width="40" height="40"/> </a> </p>
 
-<p><img align="left" 
-src="https://github-readme-stats.vercel.app/api/top-langs?username=phamtan3006&show_icons=true&locale=en&layout=compact" 
-alt="phamtan3006" /></p>
-
-<p>&nbsp;<img align="center" 
-src="https://github-readme-stats.vercel.app/api?username=phamtan3006&show_icons=true&locale=en" 
-alt="phamtan3006" /></p>
-
-<p><img align="center" 
-src="https://github-readme-streak-stats.herokuapp.com/?user=phamtan3006&" 
-alt="phamtan3006" /></p>
 

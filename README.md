@@ -7,7 +7,7 @@ Technology-VNUHCM](https://www.uit.edu.vn/)
 - 🤝 All of my projects are available at 
 [PhamTan3006](https://github.com/PhamTan3006)
 
-- 📫 How to reach me **19520262@gm.uit.edu.vn,tanp54968@gmail,com**
+- 📫 How to reach me **19520262@gm.uit.edu.vn, tanp54968@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
